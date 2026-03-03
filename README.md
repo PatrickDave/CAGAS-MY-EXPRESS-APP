@@ -1,6 +1,6 @@
 # Introduction to Node.js and Express.js
 
-This document is a presents the complete documentation of our INTPROG 32 Activity.
+This document presents the complete documentation of our INTPROG 32 Activity.
 
 # Introduction to Node.js
 
